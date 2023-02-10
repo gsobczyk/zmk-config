@@ -97,8 +97,8 @@
 // |     |     |     |     |     |     |   |     |     | HOM | END |     |     |
 //                   |     |     |     |   |     |     |     |
                         bindings = <
-   &trans &trans &trans &trans &trans &trans   &trans &kp PG_UP &kp UP   &kp PG_DN &trans &trans
-   &trans &trans &trans &trans &trans &trans   &trans &kp LEFT  &kp DOWN &kp RIGHT &trans  &trans
+   &trans &trans &trans &trans &trans &trans   &trans &kp PG_UP &kp UP   &kp PG_DN &kp RET &kp RET
+   &trans &trans &trans &trans &trans &trans   &trans &kp LEFT  &kp DOWN &kp RIGHT &kp RET &kp RET
    &trans &trans &trans &trans &trans &trans   &trans &trans    &kp HOME &kp END   &trans  &trans
                     	  &trans &trans &trans   &trans &trans    &trans
                         >;
